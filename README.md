@@ -1,3 +1,5 @@
+# [带注释版本](https://github.com/liulinboyi/vue-lit/tree/instance-properties)
+
 # @vue/lit 🖖🔥
 
 Proof of concept mini custom elements framework powered by [@vue/reactivity](https://github.com/vuejs/vue-next/tree/master/packages/reactivity) and [lit-html](https://lit-html.polymer-project.org/). The "framework" itself is just ~70 lines of code and the two libraries weigh in at ~6kb min + brotli combined.
