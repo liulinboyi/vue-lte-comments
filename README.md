@@ -1,4 +1,4 @@
-# [带注释版本](https://github.com/liulinboyi/vue-lit/tree/instance-properties)
+# 带注释版本
 
 # @vue/lit 🖖🔥
 
